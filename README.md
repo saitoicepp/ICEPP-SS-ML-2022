@@ -3,6 +3,9 @@ ICEPP-CERN 夏の学校 2022 講義「機械学習」の資料作成のために
 それぞれのトピックごとにJupyter notebookとしてまとめています。
 scikit-learnを主に用いており、機械学習アルゴリズムの自体の実装はしていません。
 
+## スライド
+- [2022](https://drive.google.com/file/d/1-PYq3lpSYl5JblePFCcZHjxRadZUHeNo)
+
 ## 環境構築
 Python3が使える場合は以下のようにして必要なパッケージをインストールできます。
 ```bash
